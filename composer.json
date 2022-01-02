@@ -1,5 +1,5 @@
 {
-    "name": "boyo/viberbot",
+    "name": "yoopl/viberbot",
     "description": "Laravel package for Viber bot creation",
     "keywords": ["viber", "bot", "laravel"],
     "license": "MIT",
